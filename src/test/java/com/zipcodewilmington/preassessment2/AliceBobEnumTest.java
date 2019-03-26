@@ -21,6 +21,7 @@ public class AliceBobEnumTest {
     }
 
 
+
     @Test
     public void testBobName() {
         // Given
